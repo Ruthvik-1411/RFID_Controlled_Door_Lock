@@ -25,5 +25,6 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MISO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12<br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SCK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13<br>
 If everything is good then the dumpinfo code returns some data with 0s 1s and some characters in big blocks ranging from 15 to 0.<br>
+   DOOR LOCK : <a href="https://drive.google.com/file/d/1Ei_IVKZhGhDtJf-_boprRYavVWyBphMw/view?usp=sharing">video link</a>
 
    
