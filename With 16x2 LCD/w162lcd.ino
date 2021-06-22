@@ -57,11 +57,11 @@ for(byte i=0;i<my_mfrc522.uid.size;i++){                     // Reading the data
 }
 Serial.println();                                 
 ID.toUpperCase();                                   // Convert the string into all upper case
-if (ID.substring(1) == "FA BC 4E B4" ){             // Check if the UID of the card is in the list of cards having access
+if (ID.substring(1) == "XX XX XX XX" ){ //To be replaced with tag ID // Check if the UID of the card is in the list of cards having access
  card_status="Access granted";                      // If yes then grant access to the specific user
  user = "Ruthvik";
 }
-else if (ID.substring(1) == "7A FF 18 3F"){  // substring = if the string contains this specific string
+else if (ID.substring(1) == "YY YY YY YY"){  // substring = if the string contains this specific string
 card_status="Access granted";
 user = "Sugreev";
 }
