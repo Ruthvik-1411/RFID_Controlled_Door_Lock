@@ -24,6 +24,9 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MOSI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11<br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MISO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12<br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SCK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13<br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IRQ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NAN<br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GND&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GND<br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3v&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3v<br>
 <li>If everything is good then the dumpinfo code returns some data with 0s 1s and some characters in big blocks ranging from 15 to 0.<br>
 <li>Door Lock : <a href="https://drive.google.com/file/d/1Ei_IVKZhGhDtJf-_boprRYavVWyBphMw/view?usp=sharing">video link</a>
 
