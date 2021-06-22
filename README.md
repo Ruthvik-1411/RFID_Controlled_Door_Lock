@@ -3,7 +3,7 @@
    Arduino based RFID door lock system is secure, quick and contactless compared to other mechanisms. It is compact and
    easy to make. It can work in any environment and is being used at many places like offices, hospitals which require quick and efficient access while being secure.
    RFID tags are simple to carry and blend in the daily items. The logic behind it being that efficient is 
-   <a href="https://github.com/Ruthvik-1411/RFID_Controlled_Door_Lock/blob/main/RFID%20logic.jpg">RFID logic</a>.<br><br>
+   <img src="https://github.com/Ruthvik-1411/RFID_Controlled_Door_Lock/blob/main/RFID%20logic.jpg"></a>.<br><br>
 <b> Components Required</b>
  <li> Arduino Board<br>
  <li> Servo motor
@@ -24,7 +24,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MOSI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11<br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MISO&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12<br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SCK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;13<br>
-If everything is good then the dumpinfo code returns some data with 0s 1s and some characters in big blocks ranging from 15 to 0.<br>
-   DOOR LOCK : <a href="https://drive.google.com/file/d/1Ei_IVKZhGhDtJf-_boprRYavVWyBphMw/view?usp=sharing">video link</a>
+<li>If everything is good then the dumpinfo code returns some data with 0s 1s and some characters in big blocks ranging from 15 to 0.<br>
+<li>Door Lock : <a href="https://drive.google.com/file/d/1Ei_IVKZhGhDtJf-_boprRYavVWyBphMw/view?usp=sharing">video link</a>
 
    
