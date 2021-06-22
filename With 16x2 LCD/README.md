@@ -1,5 +1,5 @@
 # RFID Controlled door lock with LCD screen display
-<b> WIRING </b><br>
+<b> WIRING: </b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>LCD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arduino</b>
 1. GND &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GND<br>
 2. 5VDC &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5V<br>
@@ -18,7 +18,7 @@
 15. Anode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5V
 16. Cathode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GND
 
-<br><b> Working</b><br>
+<br><b> Working:</b><br>
    First a message is dispayed on the LCD screen saying to scan the tag.<br>
    Now when the RFID tag is placed near the RFID scanner it gets scanned. Every RFID tag has a unique UID tag. 
    This UID is printed on the screen as ID: XX XX XX XX.<br>
