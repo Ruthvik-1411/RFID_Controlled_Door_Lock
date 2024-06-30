@@ -12,4 +12,4 @@
 A card or key is scanned and if it has access, the door opens and closes after five seconds and if it doesn't have access it lits a red Led or on the buzzer depending on the use.<br>
 The card can be rescanned again if there is an issue.<br><br>
 *The RFID module that I have has loose pins. So don't mind it in the video.*  <br>
-<li><a href="https://drive.google.com/file/d/1_aZYO5F5xgC0DymiPS7Ovu3Rt_MI7wVv/view?usp=sharing">Video Link </a>
+<li>YouTube Demo Link: https://youtu.be/D-mKbnPAAFk
