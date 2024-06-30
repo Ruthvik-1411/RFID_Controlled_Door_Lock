@@ -29,4 +29,4 @@
    If the tag doesn't have access rights then access is denied and the corresponding message is displayed.
    The servo remains locked in its initial position.<br><br>
    
-<b> Implementation video: <a href="https://drive.google.com/file/d/1KRWoHpIizJNbBw2IwhC9x1CrXQk4oW4b/view?usp=sharing"> video link </a>
+<b> YouTube Demo Video Link: https://youtu.be/ew4aKoh3_8k
