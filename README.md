@@ -28,6 +28,6 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GND&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GND<br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3v&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3v<br>
 <li>If everything is good then the dumpinfo code returns some data with 0s 1s and some characters in big blocks ranging from 15 to 0.<br>
-<li>Door Lock : <a href="https://drive.google.com/file/d/1Ei_IVKZhGhDtJf-_boprRYavVWyBphMw/view?usp=sharing">video link</a>
+<li>YouTube Demo Link for Door Lock : https://youtu.be/hg17v8H7MFw
 
    
